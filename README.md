@@ -2,3 +2,4 @@
 Бизнес модель b2c
 
 ## Практическое задание №1
+[Elevator Pitch](/task%201/Elevator%20Pitch.md)
