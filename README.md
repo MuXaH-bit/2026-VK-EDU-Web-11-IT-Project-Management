@@ -7,3 +7,4 @@
 [Lean Canvas](/task%201/Lean%20Canvas.md)
 
 ## Практическое задание №2
+[User Stories](/task%202/User%20Stories.md)
