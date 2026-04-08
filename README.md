@@ -5,3 +5,5 @@
 [Elevator Pitch](/task%201/Elevator%20Pitch.md)
 
 [Lean Canvas](/task%201/Lean%20Canvas.md)
+
+## Практическое задание №2
