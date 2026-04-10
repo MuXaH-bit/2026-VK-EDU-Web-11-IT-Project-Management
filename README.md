@@ -14,3 +14,5 @@
 [MVP](/task%202/MVP.md) и [MLP](/task%202/MLP.md)
 
 [Детализация требований](/task%202/Specification%20of%20requirements.md)
+
+## Практическое задание №3
