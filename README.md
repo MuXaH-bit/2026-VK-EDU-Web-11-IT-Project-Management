@@ -8,3 +8,5 @@
 
 ## Практическое задание №2
 [User Stories](/task%202/User%20Stories.md)
+
+[RICE / MoSCoW](https://docs.google.com/spreadsheets/d/1EyNthEOOvUpOaYo4SInzoOXJvuVLsSD5m2Bf433Nn_0/edit?usp=sharing)
