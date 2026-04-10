@@ -12,3 +12,5 @@
 [RICE / MoSCoW](https://docs.google.com/spreadsheets/d/1EyNthEOOvUpOaYo4SInzoOXJvuVLsSD5m2Bf433Nn_0/edit?usp=sharing)
 
 [MVP](/task%202/MVP.md) и [MLP](/task%202/MLP.md)
+
+[Детализация требований](/task%202/Specification%20of%20requirements.md)
