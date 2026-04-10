@@ -11,4 +11,4 @@
 
 [RICE / MoSCoW](https://docs.google.com/spreadsheets/d/1EyNthEOOvUpOaYo4SInzoOXJvuVLsSD5m2Bf433Nn_0/edit?usp=sharing)
 
-[MVP](/task%202/MVP.md)
+[MVP](/task%202/MVP.md) и [MLP](/task%202/MLP.md)
